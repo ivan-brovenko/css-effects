@@ -47,8 +47,8 @@ a:hover {
     /*opacity: 0;*/
     /*transition: 0.5s;*/
 /*}*/
-a:hover:before {
-    filter: blur(20px);
-    opacity: 1;
-    animation: animate 5s linear infinite;
-}
+/*a:hover:before {*/
+    /*filter: blur(20px);*/
+    /*opacity: 1;*/
+    /*animation: animate 5s linear infinite;*/
+/*}*/
